@@ -43,3 +43,11 @@
   シカ検出通知の遅延の許容範囲
 - 複数頭のシカに対する必要検出精度  
   （上記方法だと極度に群れているイノシシは個別の検出が困難）
+
+
+## 先行研究
+- [Using YOLO Object Detection to Identify Hare and Roe Deer in Thermal Aerial Video Footage—Possible Future Applications in Real-Time Automatic Drone Surveillance and Wildlife Monitoring](https://doi.org/10.3390/drones8010002)
+- [Deer survey from drone thermal imagery using enhanced faster R-CNN based on ResNets and FPN](https://doi.org/10.1016/j.ecoinf.2023.102383)
+
+## データセット
+- データセットリスト[Datasets with annotated wildlife in drone/aerial images](https://github.com/agentmorris/agentmorrispublic/blob/main/drone-datasets.md)
