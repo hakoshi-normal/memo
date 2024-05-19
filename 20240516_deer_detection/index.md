@@ -32,7 +32,7 @@
   - 高温領域画像を個別にクラス分類
     - 高温領域画像のみを切り出し推論の対象とすれば背景の影響を受けづらい
     - CNNベースの軽量画像分類モデル（ResNetとか）
-    - YOLOv8にも画像**分類**モデルがあるらしい(Object DetectionではなくImage Classification)
+    - YOLOv8にも画像**分類**モデルがあるらしい（Object DetectionではなくImage Classification）
 
 ## 要確認事項
 
